@@ -1,15 +1,7 @@
 Telescope is an open-source, real-time social news site built with [Meteor](http://meteor.com)
 
-**Note:** Telescope is beta software. Most of it should work but it's still a little unpolished and you'll probably find some bugs. Use at your own risk :)
+**Note:** WeDiscuss is beta software developed from Telescope. Most of it should work but it's still a little unpolished and you'll probably find some bugs. Use at your own risk :)
 
-# Learn More
-- [Telescope Site](http://telesc.pe)
-- [Telescope Demo](http://demo.telesc.pe)
-- [Telescope Meta](http://meta.telesc.pe/) – Discussions about Telescope
-- [Telescope Wiki](https://github.com/SachaG/Telescope/wiki)
-
-# License
-- Telescope is distributed under the [MIT License](http://opensource.org/licenses/MIT)
 
 # Features
 - Real-time (of course!)
@@ -26,18 +18,6 @@ Telescope is an open-source, real-time social news site built with [Meteor](http
 - Download or clone Telescope into /some/path
 - cd /some/path
 - Run `mrt`
-
-# Developing on Nitrous.IO
-
-Start hacking on this app on
-[Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=Telescope&utm_medium=hackonnitrous)
-in seconds:
-
-[![Hack TelescopeJS/Telescope on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=TelescopeJS%2FTelescope&file_to_open=README.nitrous.md)
-
-# Hosting Telescope
-
-I recommend using either Meteor's own free hosting service, or checking out [Modulus](http://modulus.io/). 
 
 # First Run
 - Fill in your Twitter keys (by clicking on "Sign Up/Sign in" in your Telescope top bar)
